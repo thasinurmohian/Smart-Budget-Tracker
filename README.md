@@ -1,2 +1,1 @@
-# Smart-Budget-Tracker
-Smart Budget Tracker is a C++ console app for managing personal finances. Users can add income/expenses, view history, delete transactions, analyze spending by category, export data to CSV, and check balance. Color-coded output makes tracking finances simple and clear.
+Smart Budget Tracker is a console-based C++ application designed to help users manage their personal finances efficiently. It allows users to record income and expenses, view transaction history, delete entries, analyze spending by category, export data to Excel-compatible CSV files, and check the current balance. With a simple interface and colored output for better readability, this tool provides an easy way to track and visualize financial habits.
